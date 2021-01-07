@@ -8,3 +8,8 @@ The link of the book **_Mining of Massive Datasets_** is **http://www.mmds.org/*
 ## 3
 
 An interesting book and it is worth to take a look at is **_NLP A to Z_** by **datascienceprep.co**.
+
+
+## 4
+
+Practical book for data analysis **_Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython_** by **Wes McKinney**
