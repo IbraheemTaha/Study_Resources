@@ -10,3 +10,7 @@ Same as C++ but for Java this time, the book **_Java: How to Program_** by **Har
 
 ## 1 
 Python Crash Course is a fast-paced, thorough introduction to Python that will have you writing programs, solving problems, and making things that work in no time **_Python Crash Course_** by **Eric Matthes**
+
+## 2
+
+Follow this book and you will succeed-just like the hundreds of thousands of beginners Zed has taught to date **_Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code_** لاغ **Zed Shaw**
