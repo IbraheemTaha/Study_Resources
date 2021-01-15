@@ -2,6 +2,9 @@
 ## 1 
 One of greatest books in C++ is **_C++ How to Program_** by **Harvey Deitel** and **Paul Deitel**.
 
+## 2
+**_The C++ Programming Language_** by **Bjarne Stroustrup**
+
 # Java
 ## 1 
 Same as C++ but for Java this time, the book **_Java: How to Program_** by **Harvey Deitel** and **Paul Deitel**.
