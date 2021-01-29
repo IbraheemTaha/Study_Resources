@@ -29,3 +29,6 @@ Python Crash Course is a fast-paced, thorough introduction to Python that will h
 ## 2
 
 Follow this book and you will succeed-just like the hundreds of thousands of beginners Zed has taught to date **_Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code_** لاغ **Zed Shaw**
+
+## 3
+This book can help understadning some tricky issues with Python programming language: **_Python Cookbook: Recipes for Mastering Python 3_** by **David M. Beazley, and Brian K. Jones**
