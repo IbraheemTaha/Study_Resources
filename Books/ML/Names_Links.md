@@ -12,3 +12,6 @@ Applied machine learning with a solid foundation in theory **_Python Machine Lea
 
 ## 5- Deep Learning with Structured Data
 This book teaches you powerful data analysis techniques for tabular data and relational databases **_Deep Learning with Structured Data_** by **Mark Ryan**.
+
+## 6 - Deep Learning
+A must have book for machine learning researchers **_Deep Learning**_ by **Ian Goodfellow, Yoshua Bengio, and Aaron Courville**.
