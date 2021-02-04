@@ -11,3 +11,7 @@ This is book is about the reality of the future, the age of AI in the book **_Li
 ## 3
 
 This book argues if the intelligent machines superpass the human intelligent , they may replace them **_Superintelligence: Paths, Dangers, Strategies_** by **Nick Bostrom**.
+
+
+## 4 
+This book was written in order to generate interest from people outside the field **_The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World_** by **Pedro Domingos**.
