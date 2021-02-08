@@ -15,3 +15,6 @@ This book argues if the intelligent machines superpass the human intelligent , t
 
 ## 4 
 This book was written in order to generate interest from people outside the field **_The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World_** by **Pedro Domingos**.
+
+## 5 
+A best selling book to master AI with Python **_Artificial Intelligence with Python: Your Complete Guide to Building Intelligent Apps Using Python 3.x_** by **Prateek Joshi, and Alberto Artasanchez**.
