@@ -11,6 +11,8 @@ This book will help you to learn the language fast, and to use it in highly effe
 
 Design and architect real-world scalable C++ applications by exploring advanced techniques in C++ **_Expert C++: Become a Proficient Programmer by Learning Coding Best Practices with C++17 and C++20's Latest Features_** by **Vardan Grigoryan, and Shunguang Wu**.
 
+## 5 
+A book tells what constitutes modern C++. **_A Tour of C++ (C++ In-Depth Series)_** by **Bjarne Stroustrup** the creator of C++.
 
 # Java
 ## 1 
