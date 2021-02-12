@@ -45,3 +45,6 @@ This book can help understadning some tricky issues with Python programming lang
 
 ## 4 
 A very interesing book about the tricks in Python **_Python Tricks: A Buffet of Awesome Python Features_** by **Dan Bader**.
+
+## 5 
+This book shows you how to leverage the power of both native and third-party Python libraries for building robust and responsive applications. **_Advanced Python Programming: Build high performance, concurrent, and multi-threaded apps with Python using proven design patterns_** by **Dr. Gabriele Lanaro, Quan Nguyen, and Sakis Kasampalis**
