@@ -15,3 +15,6 @@ This book teaches you powerful data analysis techniques for tabular data and rel
 
 ## 6 - Deep Learning
 A must have book for machine learning researchers **_Deep Learning**_ by **Ian Goodfellow, Yoshua Bengio, and Aaron Courville**.
+
+## 7 - Machine Learning: A Practical Approach on the Statistical Learning Theory
+This book presents the Statistical Learning Theory in a detailed and easy to understand way, by using practical examples, algorithms and source codes by **Rodrigo Fernandes de Mello, and Moacir Antonelli Ponti** .
