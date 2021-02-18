@@ -31,6 +31,7 @@ A must have book with 78 best practices to betterment the code **_Effective Java
 ## 5
 **_Java: The Complete Reference, Eleventh Edition_** by **Herbert Schildt** is the complete reference, eleventh edition explains how to develop, compile, debug, and run Java programs.
 
+
 # Python 
 
 ## 1 
@@ -48,3 +49,8 @@ A very interesing book about the tricks in Python **_Python Tricks: A Buffet of 
 
 ## 5 
 This book shows you how to leverage the power of both native and third-party Python libraries for building robust and responsive applications. **_Advanced Python Programming: Build high performance, concurrent, and multi-threaded apps with Python using proven design patterns_** by **Dr. Gabriele Lanaro, Quan Nguyen, and Sakis Kasampalis**
+
+
+
+## 6 
+ Python Essential Reference is the definitive reference guide to the Python programming language — the one authoritative handbook that reliably untangles and explains both the core Python language and the most essential parts of the Python library. **_Python Essential Reference_** by **David M. Beazley**.
