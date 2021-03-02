@@ -15,7 +15,7 @@ This book argues if the intelligent machines superpass the human intelligent , t
 This is book is about the reality of the future, the age of AI in the book **_Life 3.0_** by **Max Tegmark**.
 
 
-## 4 
+## 4 The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World
 This book was written in order to generate interest from people outside the field **_The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World_** by **Pedro Domingos**.
 
 ## 5 
