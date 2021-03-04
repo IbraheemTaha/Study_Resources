@@ -24,7 +24,7 @@ A best selling book to master AI with Python **_Artificial Intelligence with Pyt
 ## 6 
 In this book the author **Kai-Fu Lee** argues powerfully that because of these unprecedented developments in AI, dramatic changes will be happening much sooner than many of us expected. This book is **_AI Superpowers_**  
 
-## 7 
+## 7 Rebooting AI: Building Artificial Intelligence We Can Trust
 
 Two leaders in the field offer a compelling analysis of the current state of the art and reveal the steps we must take to achieve a truly robust artificial intelligence in **_Rebooting AI: Building Artificial Intelligence We Can Trust_** by **Gary Marcus, Ernest Davis**
 
