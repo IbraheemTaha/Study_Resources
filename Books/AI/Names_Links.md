@@ -18,7 +18,7 @@ This is book is about the reality of the future, the age of AI in the book **_Li
 ## 4 >>The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World<<
 This book was written in order to generate interest from people outside the field **_The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World_** by **Pedro Domingos**.
 
-## 5 Artificial Intelligence with Python: Your Complete Guide to Building Intelligent Apps Using Python 3.x
+## 5 >>Artificial Intelligence with Python: Your Complete Guide to Building Intelligent Apps Using Python 3.x<<
 A best selling book to master AI with Python **_Artificial Intelligence with Python: Your Complete Guide to Building Intelligent Apps Using Python 3.x_** by **Prateek Joshi, and Alberto Artasanchez**.
 
 ## 6 AI Superpowers
