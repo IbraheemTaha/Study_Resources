@@ -21,7 +21,7 @@ This book was written in order to generate interest from people outside the fiel
 ## 5 >>Artificial Intelligence with Python: Your Complete Guide to Building Intelligent Apps Using Python 3.x<<
 A best selling book to master AI with Python **_Artificial Intelligence with Python: Your Complete Guide to Building Intelligent Apps Using Python 3.x_** by **Prateek Joshi, and Alberto Artasanchez**.
 
-## 6 AI Superpowers
+## 6 >>AI Superpowers<<
 In this book the author **Kai-Fu Lee** argues powerfully that because of these unprecedented developments in AI, dramatic changes will be happening much sooner than many of us expected. This book is **_AI Superpowers_**  
 
 ## 7 Rebooting AI: Building Artificial Intelligence We Can Trust
