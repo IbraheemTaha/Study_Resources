@@ -29,6 +29,6 @@ In this book the author **Kai-Fu Lee** argues powerfully that because of these u
 Two leaders in the field offer a compelling analysis of the current state of the art and reveal the steps we must take to achieve a truly robust artificial intelligence in **_Rebooting AI: Building Artificial Intelligence We Can Trust_** by **Gary Marcus, Ernest Davis**
 
 
-## 8 The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind
+## 8 >>The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind<<
 
 In this mind-expanding book, scientific pioneer Marvin Minsky continues his groundbreaking research, offering a fascinating new model for how our minds work. **_The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind_** by **Marvin Minsky**
