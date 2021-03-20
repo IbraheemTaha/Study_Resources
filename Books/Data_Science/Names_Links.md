@@ -15,9 +15,9 @@ An interesting book and it is worth to take a look at is **_NLP A to Z_** by **d
 Practical book for data analysis **_Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython_** by **Wes McKinney**
 
 
-## 5
+## 5 Python for Data Science For Dummies
 
-A book introduces an way to learn Python for programming and statistics**_Python for Data Science For Dummies_** by **Luca Massaron, and John Mueller**
+A book introduces an way to learn Python for programming and statistics **_Python for Data Science For Dummies_** by **Luca Massaron, and John Mueller**
 
 
 ## 6
