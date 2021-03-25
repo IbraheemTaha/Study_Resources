@@ -20,7 +20,7 @@ A must have book for machine learning researchers **_Deep Learning**_ by **Ian G
 This book presents the Statistical Learning Theory in a detailed and easy to understand way, by using practical examples, algorithms and source codes by **Rodrigo Fernandes de Mello, and Moacir Antonelli Ponti** .
 
 
-## 8 Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series) Illustrated Edition
+## 8 >> Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series) Illustrated Edition
 
 The book is written in an informal, accessible style, complete with pseudo-code for the most important algorithms. **_Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series) Illustrated Edition
 _** by **Kevin P. Murphy**.
