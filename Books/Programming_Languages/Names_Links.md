@@ -41,7 +41,7 @@ A must have book with 78 best practices to betterment the code **_Effective Java
 
 # Python 
 
-## 1 
+## 1 Python Crash Course
 Python Crash Course is a fast-paced, thorough introduction to Python that will have you writing programs, solving problems, and making things that work in no time **_Python Crash Course_** by **Eric Matthes**
 
 ## 2
