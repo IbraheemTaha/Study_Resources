@@ -32,7 +32,7 @@ A book for Java, Spring, and Microservices. The book is: **_Spring Cloud Data Fl
 
 This book gives an insight of the core of Java programming language **_Core Java Volume I – Fundamentals_** by **Cay S. Horstmann**
 
-## 4 
+## 4 Effective Java
 A must have book with 78 best practices to betterment the code **_Effective Java_** by **Joshua Bloch**.
 
 ## 5
