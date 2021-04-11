@@ -51,7 +51,7 @@ Follow this book and you will succeed-just like the hundreds of thousands of beg
 ## 3 Python Cookbook: Recipes for Mastering Python 3
 This book can help understadning some tricky issues with Python programming language: **_Python Cookbook: Recipes for Mastering Python 3_** by **David M. Beazley, and Brian K. Jones**
 
-## 4 
+## 4 Python Tricks: A Buffet of Awesome Python Features
 A very interesing book about the tricks in Python **_Python Tricks: A Buffet of Awesome Python Features_** by **Dan Bader**.
 
 ## 5 
