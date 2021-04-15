@@ -4,7 +4,7 @@
 ## 1 >>C++ How to Program<<
 One of greatest books in C++ is **_C++ How to Program_** by **Harvey Deitel** and **Paul Deitel**.
 
-## 2 The C++ Programming Language_
+## 2 >>The C++ Programming Language<<
 **_The C++ Programming Language_** by **Bjarne Stroustrup**
 
 ## 3 C++ Primer
