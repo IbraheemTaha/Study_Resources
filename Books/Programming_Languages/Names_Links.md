@@ -44,7 +44,7 @@ A must have book with 78 best practices to betterment the code **_Effective Java
 ## 1 >>Python Crash Course<<
 Python Crash Course is a fast-paced, thorough introduction to Python that will have you writing programs, solving problems, and making things that work in no time **_Python Crash Course_** by **Eric Matthes**
 
-## 2 Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code
+## 2 >>Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code<<
 
 Follow this book and you will succeed-just like the hundreds of thousands of beginners Zed has taught to date **_Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code_** by **Zed Shaw**
 
