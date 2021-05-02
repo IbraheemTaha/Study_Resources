@@ -1,7 +1,7 @@
 # C++
 # <p align="center">
 
-## 1 <<C++ How to Progra>>
+## 1 <<C++ How to Program>>
 One of greatest books in C++ is **_C++ How to Program_** by **Harvey Deitel** and **Paul Deitel**.
 
 ## 2 >>The C++ Programming Language<<
