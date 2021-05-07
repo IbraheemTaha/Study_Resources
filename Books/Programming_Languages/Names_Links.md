@@ -18,7 +18,7 @@ Design and architect real-world scalable C++ applications by exploring advanced 
 
 A book tells what constitutes modern C++. **_A Tour of C++ (C++ In-Depth Series)_** by **Bjarne Stroustrup** the creator of C++.
 
-## 6 >>Modern Computer Architecture and Organization: Learn X86, ARM, and RISC-V Architectures and the Design of Smartphones, PCs, and Cloud Servers<<
+## 6 <<Modern Computer Architecture and Organization: Learn X86, ARM, and RISC-V Architectures and the Design of Smartphones, PCs, and Cloud Servers>>
 
 **_Modern Computer Architecture and Organization: Learn X86, ARM, and RISC-V Architectures and the Design of Smartphones, PCs, and Cloud Servers_** by **Jim Ledin** presents a comprehensive compilation of various topics about computer architecture and organization.
 
