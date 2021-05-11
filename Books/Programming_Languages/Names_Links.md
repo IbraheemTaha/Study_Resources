@@ -29,11 +29,11 @@ Same as C++ but for Java this time, the book **_Java: How to Program_** by **Har
 ## 2 << Spring Cloud Data Flow: Native Cloud Orchestration Services for Microservice>>
 A book for Java, Spring, and Microservices. The book is: **_Spring Cloud Data Flow: Native Cloud Orchestration Services for Microservice_** by **Felipe Gutierrez**.
 
-## 3 <<Core Java Volume I – Fundamentals>>
+## 3 << Core Java Volume I – Fundamentals >>
 
 This book gives an insight of the core of Java programming language **_Core Java Volume I – Fundamentals_** by **Cay S. Horstmann**
 
-## 4 >>Effective Java<<
+## 4 << Effective Java >>
 A must have book with 78 best practices to betterment the code **_Effective Java_** by **Joshua Bloch**.
 
 ## 5 >>Java: The Complete Reference, Eleventh Edition<<
