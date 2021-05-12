@@ -36,7 +36,7 @@ This book gives an insight of the core of Java programming language **_Core Java
 ## 4 << Effective Java >>
 A must have book with 78 best practices to betterment the code **_Effective Java_** by **Joshua Bloch**.
 
-## 5 >>Java: The Complete Reference, Eleventh Edition<<
+## 5 <<Java: The Complete Reference, Eleventh Edition>>
 **_Java: The Complete Reference, Eleventh Edition_** by **Herbert Schildt** is the complete reference, eleventh edition explains how to develop, compile, debug, and run Java programs.
 
 
