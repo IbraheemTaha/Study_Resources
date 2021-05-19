@@ -60,5 +60,5 @@ This book shows you how to leverage the power of both native and third-party Pyt
 
 
 
-## 6 >>Python Essential Reference<<
+## 6 << Python Essential Reference >>
  Python Essential Reference is the definitive reference guide to the Python programming language — the one authoritative handbook that reliably untangles and explains both the core Python language and the most essential parts of the Python library. **_Python Essential Reference_** by **David M. Beazley**.
