@@ -5,7 +5,7 @@ Link: _https://dl.acm.org/doi/book/10.5555/2974989_
 
 
 
-## 2  >>Superintelligence: Paths, Dangers, Strategies<<
+## 2  << Superintelligence: Paths, Dangers, Strategies >>
 
 This book argues if the intelligent machines superpass the human intelligent , they may replace them **_Superintelligence: Paths, Dangers, Strategies_** by **Nick Bostrom**.
 
