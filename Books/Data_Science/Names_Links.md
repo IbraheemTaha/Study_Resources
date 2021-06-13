@@ -20,7 +20,7 @@ Practical book for data analysis **_Python for Data Analysis: Data Wrangling wit
 A book introduces an way to learn Python for programming and statistics **_Python for Data Science For Dummies_** by **Luca Massaron, and John Mueller**
 
 
-## 6 Natural Language Processing with Python
+## 6 << Natural Language Processing with Python >>
 
 Practical and very usefull book to analyze text with the Natural Language Toolkit NLTK **_Natural Language Processing with Python_** by **Edward Loper, Steven Bird, and Ewan Klein**
 
