@@ -24,7 +24,7 @@ A book introduces an way to learn Python for programming and statistics **_Pytho
 
 Practical and very usefull book to analyze text with the Natural Language Toolkit NLTK **_Natural Language Processing with Python_** by **Edward Loper, Steven Bird, and Ewan Klein**
 
-## 7 Recommender Systems: An Introduction
+## 7 << Recommender Systems: An Introduction >>
  **_Recommender Systems: An Introduction_** by **Markus Zanker, Gerhard Friedrich, Dietmar Jannacha, and Alexander Felfernig**
 
 ## 8 Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python
