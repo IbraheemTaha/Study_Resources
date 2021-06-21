@@ -27,7 +27,7 @@ Practical and very usefull book to analyze text with the Natural Language Toolki
 ## 7 << Recommender Systems: An Introduction >>
  **_Recommender Systems: An Introduction_** by **Markus Zanker, Gerhard Friedrich, Dietmar Jannacha, and Alexander Felfernig**
 
-## 8 Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python
+## 8 << Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python >>
 
 A book that have practical guidance on applying statistical methods to data science **_Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python_** by **Peter C. Bruce, Andrew Bruce and Peter Gedeck**
 
