@@ -36,7 +36,7 @@ A book that have practical guidance on applying statistical methods to data scie
 
 Learn the basics of Data Science through an easy to understand conceptual framework and immediately practice using RapidMiner platform in the book: **_Data Science: Concepts and Practice_** by **Bala Deshpande, and Vijay Kotu**
 
-## 10 Foundations of Statistical Natural Language Processing
+## 10 << Foundations of Statistical Natural Language Processing >> 
 Statistical approaches to processing natural language text have become dominant in recent years by **Christopher D. Manning, Hinrich Schütze** and edited by **Hinrich Schütze**, **_Foundations of Statistical Natural Language Processing_** 
 
 
