@@ -40,6 +40,6 @@ Learn the basics of Data Science through an easy to understand conceptual framew
 Statistical approaches to processing natural language text have become dominant in recent years by **Christopher D. Manning, Hinrich Schütze** and edited by **Hinrich Schütze**, **_Foundations of Statistical Natural Language Processing_** 
 
 
-## 11 An Introduction to Statistical Learning: With Applications in R
+## 11 << An Introduction to Statistical Learning: With Applications in R >>
 
 This book is free and provides an accessible overview of the field of statistical learning, an essential toolset for making sense of the vast and complex data sets that have emerged in fields ranging from biology to finance to marketing to astrophysics in the past twenty years **_An Introduction to Statistical Learning: With Applications in R_** by **Daniela Witten, Trevor Hastie, Robert Tibshirani, and Gareth M. James**. 
