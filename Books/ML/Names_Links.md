@@ -7,7 +7,7 @@ One of most successful Machine Learning books is **_Machine Learning: A Bayesian
 ## 3- << Machine Learning with Python Cookbook >>
 Practical machine learning with Python in the book **_Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning_** by **Chris Albon**.
 
-## 4- Python Machine Learning
+## 4- << Python Machine Learning >>
 Applied machine learning with a solid foundation in theory **_Python Machine Learning_** by **Sebastian Raschka**
 
 ## 5- Deep Learning with Structured Data
