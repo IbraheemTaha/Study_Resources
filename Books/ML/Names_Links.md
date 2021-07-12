@@ -10,7 +10,7 @@ Practical machine learning with Python in the book **_Machine Learning with Pyth
 ## 4- << Python Machine Learning >>
 Applied machine learning with a solid foundation in theory **_Python Machine Learning_** by **Sebastian Raschka**
 
-## 5- Deep Learning with Structured Data
+## 5- << Deep Learning with Structured Data >>
 This book teaches you powerful data analysis techniques for tabular data and relational databases **_Deep Learning with Structured Data_** by **Mark Ryan**.
 
 ## 6 - Deep Learning
