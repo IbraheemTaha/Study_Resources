@@ -24,3 +24,8 @@ This book presents the Statistical Learning Theory in a detailed and easy to und
 
 The book is written in an informal, accessible style, complete with pseudo-code for the most important algorithms. **_Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series) Illustrated Edition
 _** by **Kevin P. Murphy**.
+
+
+## 9 << Deep Learning with Python >>
+
+The book Deep Learning with Python introduces deep learning using the Python language and the Keras library. Written by Keras creator and Google AI researcher François Chollet, this book builds your understanding through intuitive explanations and practical examples. by **François Chollet**
